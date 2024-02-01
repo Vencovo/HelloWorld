@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello and welcome!");
         // Zkratka: sout
         System.out.println("Ahoj světe!");
+        //github je někdy fakt zlo vole, furt nějaké změny.
 
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) { //cyklus for.... opakování stejné akce
